@@ -34,7 +34,8 @@ class GitOverview extends StatelessWidget {
             const Text('My name is: Yael'),
             Text('My age is: 18'),
             Text('My hobbie: Listening to music'),
-            Text('Stack: js, c++, java')
+            Text('Stack: js, c++, java, python'),
+            Text('If I run this code on my flutter app, will it work?: no.')
           ],
         ),
       ),
