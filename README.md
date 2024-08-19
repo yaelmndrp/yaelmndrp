@@ -44,6 +44,6 @@ class GitOverview extends StatelessWidget {
 ```
 
 <a href="https://github.com/yaelmndrp">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=yaelmndrp&show_icons=true&theme=dark&hide_border=true&icon_color=8700b8&bg_color=290037">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelmndrp&show_icons=true&theme=dark&hide_border=true&icon_color=8700b8&bg_color=290037&layout=compact">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=yaelmndrp&show_icons=true&theme=dark&hide_border=true&icon_color=8700b8&bg_color=290037">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelmndrp&show_icons=true&theme=dark&hide_border=true&icon_color=8700b8&bg_color=290037&layout=compact">
 </a>
